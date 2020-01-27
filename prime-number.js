@@ -41,7 +41,7 @@ function primeNumber(input) {
 
     }
 
-    console.log(output + '\n')    // Writing output to STDOUT
+    console.log(output + '\n')
     console.log(divisibleByList)
 }
 
